@@ -8,7 +8,7 @@ This tutorial will guide you through the process of setting up network file shar
 
 <h2>Video Demonstration</h2>
 
-### [Network File Shares and Permissions](https://drive.google.com/file/d/1V_4tRnOFsca0z34e6vLhDkQvt7F80qUj/view?usp=drive_link)
+- COMING SOON!
 
 <h2>Environments and Technologies Used</h2>
 
